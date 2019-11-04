@@ -7,7 +7,6 @@
 - 开发语言 Typescript
 - React
 - Antd
-- Nextjs
 
 ### 后端
 
